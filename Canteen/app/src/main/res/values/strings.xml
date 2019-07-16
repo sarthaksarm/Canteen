@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Canteen</string>
+    <string name="about">Generally in a canteen,a heap of plates are arranged on a table. When customer places an order dishes will be served in those plates. In a stack of plates, the last plate kept will be the first plate to be used for serving, where stack data structures comes into picture.
+We can find the application of Stack [a LIFO data structure ] in Popping plates one by one and used for serving food, thus, in a sequential manner. By using this concept, the Stack with Trees data structure is demonstrated through this App.
+Canteen is an Android App in which the basic operations of a stack viz. Push, Pop, Peek and display operations are simulated.
+When an user enters into the app, the following options are displayed along with canteen background.
+Insert : A new plate will be inserted. Push operation is simulated.
+Remove : The last plate inserted will be popped out of the heap.
+Show Plates : Heap of plates along with plate numbers are displayed.
+Pick Plate : The top most plate will be displayed. Peek operation is simulated.
+When user clicks on any of the above options, respective operations are performed and suitable messages are displayed.
+</string>
+
+</resources>
